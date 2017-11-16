@@ -1,0 +1,2 @@
+# EGKMisc
+Miscellaneous R functions
